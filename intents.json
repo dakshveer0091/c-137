@@ -1,0 +1,13 @@
+{"intents": [
+    {"tag":["greeting"], 
+     "patterns": ["hi","hello","namaste","hey","yo"],
+     "responses": ["hi","how can i help you"]
+    },
+    {"tag":["good bye"], 
+     "patterns": ["bye","take care"],
+     "responses": ["bye","i'll talk to you later"]
+    }
+  ]
+}
+
+    
